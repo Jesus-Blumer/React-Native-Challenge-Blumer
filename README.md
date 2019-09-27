@@ -31,6 +31,11 @@ Your app should be able to complete the following tasks:
 * List all of his Dogs
 * Persist data using Redux
 
+## technologies
+* React Native
+* Expo
+* Redux
+
 ## Grading
 The grading of the app  will be based off of three criteria:
 * **25%** - UI and UX
